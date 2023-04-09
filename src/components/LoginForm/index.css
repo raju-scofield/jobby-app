@@ -12,14 +12,15 @@
   background-color: #272727;
   border-radius: 10px;
   padding: 40px;
-  width: 40%;
+  width: 30%;
+  font-family: Roboto;
 }
 
 .form-logo-container {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  padding: 20px;
+  padding: 0px 20px 20px 20px;
 }
 
 .form-label {
@@ -37,7 +38,9 @@
   height: 40px;
   background-color: transparent;
   margin-top: 5px;
+  margin-bottom: 10px;
   font-size: 15px;
+  padding-left: 5px;
 }
 
 .form-submit-button {
